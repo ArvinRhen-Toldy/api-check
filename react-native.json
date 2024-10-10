@@ -1,6 +1,6 @@
 {
   "check": true,
   "title": "This app is restricted due to incomplete payments.",
-  "body": "If you are the app owner, please make payment until",
-  "subtitle": "After this date, the app will instantly crash.",
+  "body": "If you are the app owner, please make payment by",
+  "subtitle": "After this date, the app will instantly crash."
 }
